@@ -16282,7 +16282,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2f2803d6ab6d8ac4587dcf9ce60e2113, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameTimer: 5
+  gameTimer: 120
   gameOverUI: {fileID: 312001516}
   timerText: {fileID: 1179305944}
   TeddyBearPointsMin: 2000
